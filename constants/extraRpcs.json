@@ -111,6 +111,18 @@
             "https://bsc-mainnet.public.blastapi.io"
         ]
     },
+    
+    "877": {
+        "rpcs": [
+            "https://dxt.dexit.network",
+            "https://rpc.dexit.network",
+            
+        ]
+    },
+    
+    
+    
+    
     "97": {
         "rpcs": [
             "https://bsctestapi.terminet.io/rpc",
